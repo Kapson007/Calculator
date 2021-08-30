@@ -130,7 +130,7 @@ button:focus{
 
 @media  screen and (max-width: 600px) {
     .calculator{
-        width: 95%;
+        width: 90%;
         
     }
 }
